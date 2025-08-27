@@ -3,4 +3,4 @@
 ---
 
 
-[[Zettelkasten/Notas/Hola\|Hola]]
+[[Biblioteca/Fundación\|Fundación]]
