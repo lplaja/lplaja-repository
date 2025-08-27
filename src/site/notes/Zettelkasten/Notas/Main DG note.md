@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Notas/Main DG note/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Zettelkasten/Notas/Main DG note/","tags":["digital-garden","gardenEntry"]}
 ---
 
-snljhlsjcljsnljclzsncldnl`
+# Digital Garden (lplaja)
+
+[[Zettelkasten/Notas/Hola\|Hola]]
+
