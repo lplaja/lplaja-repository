@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Notas/Main DG note/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Notas/Main DG note/","tags":["gardenEntry"]}
 ---
 
 snljhlsjcljsnljclzsncldnl`
