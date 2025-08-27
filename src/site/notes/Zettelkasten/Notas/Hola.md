@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Notas/Hola/","tags":["digital-garden","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Zettelkasten/Notas/Hola/","tags":["digital-garden"]}
 ---
 
 
-[[Zettelkasten/Notas/Prueba\|prueba]]
+[[Zettelkasten/Notas/prueba\|prueba]]
